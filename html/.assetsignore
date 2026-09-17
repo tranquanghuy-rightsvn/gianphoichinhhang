@@ -1,0 +1,9 @@
+node_modules
+.git
+.wrangler
+docs/design-references
+scripts
+package.json
+package-lock.json
+bun.lock
+bun.lockb
